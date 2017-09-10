@@ -1,2 +1,2 @@
-# FlashcardApp
-iOS flashcard app
+# flashcardProject
+Cmpe 137 Flashcard App
